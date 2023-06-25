@@ -1,3 +1,5 @@
+# House Price Prediction
+
 # README
 
 This repository contains a Python script for analyzing and predicting housing prices using machine learning techniques. The script utilizes the `numpy`, `pandas`, `matplotlib`, and `seaborn` libraries for data manipulation, visualization, and analysis. The main goal is to demonstrate the process of loading data, preprocessing, exploratory data analysis, feature engineering, and building predictive models.
@@ -74,4 +76,4 @@ The script provides insights into the dataset through exploratory data analysis 
 
 Feel free to modify the script, experiment with different models, and explore further to enhance the analysis and prediction of housing prices.
 
-Note: The `housing.csv` file used in this script should contain the necessary data in the correct format for the analysis to work properly.
+
